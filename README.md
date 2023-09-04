@@ -4,13 +4,12 @@ Hello there, welcome to my page! This is my public portfolio for my Telling Stor
 ## About Me 
 Hello! I'm Yilin Lyu (pronouns: She/Her). Currently, I'm in my second year at Heinz College, pursuing a degree in Public Policy and Management with a specialization in Data Analytics. I've always been captivated by the power of data science; it's remarkable how it can uncover profound insights from the vast sea of data that surrounds us. My aspiration post-graduation is to harness the potential of data science to drive business growth and innovation.
 
-
 In my spare time, I enjoy reading, hiking and photography. 
 
 ## What I hope to learn 
 I aspire to master the art of crafting data visualizations that are not only aesthetically appealing but also comprehensible. My ultimate goal is to design visuals that bridge communication gaps, ensuring that diverse audiences can easily grasp and engage with the information presented.
 
-<img src="https://github.com/YLtryingcode/Yilin-Lyu-portfolio/assets/122923571/1c1e828b-be76-4d61-b4d7-c56ebafac642" alt="WeChat Image_20220824151355" width="450"/>
+!(	/assets/images/WeChat Image_20220824151355.jpg)
 
 
 
