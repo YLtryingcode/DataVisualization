@@ -9,8 +9,7 @@ In my spare time, I enjoy reading, hiking and photography.
 ## What I hope to learn 
 I aspire to master the art of crafting data visualizations that are not only aesthetically appealing but also comprehensible. My ultimate goal is to design visuals that bridge communication gaps, ensuring that diverse audiences can easily grasp and engage with the information presented.
 
-!(	/assets/images/WeChat Image_20220824151355.jpg)
-
+![](https://github.com/YLtryingcode/Yilin-Lyu-portfolio/blob/59ac5db82dbd490a6876c80600eeaa2ae93ac80a/image/profile_pic.jpg )
 
 
 ## Portfolio 
