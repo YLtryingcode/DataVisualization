@@ -12,7 +12,7 @@ I aspire to master the art of crafting data visualizations that are not only aes
 <img src="https://yltryingcode.github.io/Yilin-Lyu-portfolio/image/profile_pic.jpg" width="200" />
 
 ## Portfolio 
-
+Linke to another page: [https://github.com/YLtryingcode/Yilin-Lyu-portfolio/blob/main/page2.md](page2.md)
 ### Assignment : 
 
 ### Final Project 
