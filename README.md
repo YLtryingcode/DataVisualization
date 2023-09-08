@@ -14,7 +14,7 @@ I aspire to master the art of crafting data visualizations that are not only aes
 ## Portfolio 
 Linke to another page: [https://github.com/YLtryingcode/Yilin-Lyu-portfolio/blob/main/page2.md](page2.md)
 ### Assignment : 
-
+[09/08 Data visualization](/0908dataviz.md)
 ### Final Project 
 - part one
 - part two
