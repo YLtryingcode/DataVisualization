@@ -12,7 +12,7 @@ I aspire to master the art of crafting data visualizations that are not only aes
 <img src="https://yltryingcode.github.io/Yilin-Lyu-portfolio/image/profile_pic.jpg" width="200" />
 
 ## Portfolio 
-Linke to another page: [https://github.com/YLtryingcode/Yilin-Lyu-portfolio/blob/main/page2.md](page2.md)
+portfolio page: https://yltryingcode.github.io/Yilin-Lyu-portfolio/
 ### Assignment : 
 [09/08 Data visualization: Government Debt](/GovermentDebt.md)
 ### Final Project 
