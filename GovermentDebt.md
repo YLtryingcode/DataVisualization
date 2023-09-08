@@ -6,13 +6,20 @@
 <iframe src="https://data.oecd.org/chart/7b8e" width="760" height="570" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/7b8e" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2022</a></iframe>
 
 
+
+
 ## Individual Country's Debt ratio change over time (1995-2019)
 <div class="flourish-embed flourish-chart" data-src="visualisation/14961442"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+
 
 
 ## Top three countries with the most debt over time (2015-2022)
 <div class="flourish-embed flourish-chart" data-src="visualisation/14963131"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 For this visualization, I've honed in on the top three countries with the highest debt, tracking its progression over the years. Initially, I began with a comprehensive dataset. However, juxtaposing the data of all countries year-by-year made the visualization cluttered and challenging for viewers to decipher. Consequently, I streamlined the number of countries and years showcased.
+
+
+
 
 ### Upon comparing the three visualizations, each has its unique strengths and limitations:
 
