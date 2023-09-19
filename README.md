@@ -18,6 +18,10 @@ portfolio page: https://yltryingcode.github.io/Yilin-Lyu-portfolio/
 
 
 [09/12 Data visualization: Americna's trust to different media source](/MediaTrust.md)
+
+
+
+[09/20 Assignment 3 & 4](/assignment3&4.md)
 ### Final Project 
 - part one
 - part two
