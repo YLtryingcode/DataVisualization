@@ -21,7 +21,7 @@ portfolio page: https://yltryingcode.github.io/Yilin-Lyu-portfolio/
 
 
 
-[09/20 Assignment 3 & 4](/assignment3&4.md)
+[09/20 Assignment 3 & 4 Data Visualization Critique and Redesign](/assignment3&4.md)
 ### Final Project 
 - part one
 - part two
