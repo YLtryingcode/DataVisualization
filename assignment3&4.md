@@ -37,17 +37,17 @@ After I am done with sketch, I presented it to two people who have never seen th
   I like it, it is enjoyable and interesting to look at and the idea of total revenue is increasing each pretty clear. The stack bar chart works well. The change between each bar is dramatic so it's easy to identify the change and the trend line allows a easy guidance to see the change.
 
 
-  #### Repondent 2: Male Friend, late 30s.
-  - what does the graph tell you?
-    It is telling me that over all autonomes driving at all level will increase.  High driving automation will be the bigger market share by the end of the decade. I am suprise that level 1 will decrease over time
-  - Who do you think is the target audience for this visualization?
+#### Repondent 2: Male Friend, late 30s.
+- what does the graph tell you?
+  It is telling me that over all autonomes driving at all level will increase.  High driving automation will be the bigger market share by the end of the decade. I am suprise that level 1 will decrease over time
+- Who do you think is the target audience for this visualization?
   investors in the automated driving 
-  - Anything stand out for you? Anything confusing?
-   Yes, what is the difference between ADAS and AD. I am also confused by the term of different levels. What does different level mean?
-  - What else do you wish you know or being included in the visualization?
-   reference, where the data come frome and the percentage of each each level at each year 
- - How do you like the overall aesthetics and format?
-    I like it. the reader can easily understand the graph with minimal effort. The graph does represent what the title introduce. It is an engaging graph, and yes I am willing to share the information with others.
+- Anything stand out for you? Anything confusing?
+  Yes, what is the difference between ADAS and AD. I am also confused by the term of different levels. What does different level mean?
+- What else do you wish you know or being included in the visualization?
+  reference, where the data come frome and the percentage of each each level at each year
+- How do you like the overall aesthetics and format?
+  I like it. the reader can easily understand the graph with minimal effort. The graph does represent what the title introduce. It is an engaging graph, and yes I am willing to share the information with others.
 
 #### Feedback takeaways & thoughts
 - More explaination about different level is needed for the general audience to understand the graph
