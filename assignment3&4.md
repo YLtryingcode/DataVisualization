@@ -3,7 +3,8 @@ For this assignment, I will select a data visualization in the public that can b
 
 
 ## Original Visualization 
-<img width="500" alt="image" src="https://github.com/YLtryingcode/Yilin-Lyu-portfolio/assets/122923571/5f3bb59b-8ad1-4842-a01e-3654cced1968">
+<img width="599" alt="image" src="https://github.com/YLtryingcode/Yilin-Lyu-portfolio/assets/122923571/56a505f5-bf1f-4433-b140-d66b1694ed95">
+
 
 
 
