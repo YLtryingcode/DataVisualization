@@ -13,11 +13,13 @@ This data visualization is from McKinsey's report *'Autonomous driving’s futur
 
 Overall, this data visualization is very useful and does seem true to its data. It does have a clean look which give it a decent aesthetic score and it will inspire audience to share the main message to others. However, the design of the visualization and the main message it tries to deliver are not well aligned with each other which makes it lacks intuitiveness. The different size of the block over the year make it lacks of perceptibility. 
 
-## sketch 
+## Sketch 
+
 ### Sktech idea:
 To improve the visualization, I would like to change the graph format to a stacked bar with a trend line. This way the audience can clearly tell the growth trend over the year while also learning about how each level grows differently. In addition, I want to change the color scheme of the graph by having different levels in different shades of the same color, so it will give a neater and cleaner look and cause less distraction to the audience's eyes. And a sketch of to improve the data visualization looks like the following: 
 
 ![69bf5bad679447c72682dde0f3e924e](https://github.com/YLtryingcode/Yilin-Lyu-portfolio/assets/122923571/50b5ee3f-e203-4676-b2c3-170a6a606fbf)
+
 
 
 ## Feedback: 
@@ -53,5 +55,5 @@ After I am done with sketch, I presented it to two people who have never seen th
 - add reference 
 - put the number for each level's range back so audience can look into the detailed change for each level.  
 
-  
+##  Visualization Redesign 
 
