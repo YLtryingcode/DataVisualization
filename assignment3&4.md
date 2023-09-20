@@ -2,8 +2,10 @@
 For this assignment, I will select a data visualization in the public that can be better designed, identify the area of improvement, sketch out a potential solution, test out the solution by asking other people's opinions, and offer a different way of approaching the data. 
 
 
-## original visualization 
-<img width="400" alt="image" src="https://github.com/YLtryingcode/Yilin-Lyu-portfolio/assets/122923571/5f3bb59b-8ad1-4842-a01e-3654cced1968">
+## Original Visualization 
+<img width="500" alt="image" src="https://github.com/YLtryingcode/Yilin-Lyu-portfolio/assets/122923571/5f3bb59b-8ad1-4842-a01e-3654cced1968">
+
+
 
 "Exhibit 1", Accessed September 20, 2023. https://www.mckinsey.com/industries/automotive-and-assembly/our-insights/autonomous-drivings-future-convenient-and-connected
 
@@ -12,7 +14,8 @@ This data visualization is from McKinsey's report *'Autonomous driving’s futur
 Overall, this data visualization is very useful and does seem true to its data. It does have a clean look which give it a decent aesthetic score and it will inspire audience to share the main message to others. However, the design of the visualization and the main message it tries to deliver are not well aligned with each other which makes it lacks intuitiveness. The different size of the block over the year make it lacks of perceptibility. 
 
 ## sketch 
-Sktech idea: To improve the visualization, I would like to change the graph format to a stacked bar with a trend line. This way the audience can clearly tell the growth trend over the year while also learning about how each level grows differently. In addition, I want to change the color scheme of the graph by having different levels in different shades of the same color, so it will give a neater and cleaner look and cause less distraction to the audience's eyes. And a sketch of to improve the data visualization looks like the following: 
+### Sktech idea:
+To improve the visualization, I would like to change the graph format to a stacked bar with a trend line. This way the audience can clearly tell the growth trend over the year while also learning about how each level grows differently. In addition, I want to change the color scheme of the graph by having different levels in different shades of the same color, so it will give a neater and cleaner look and cause less distraction to the audience's eyes. And a sketch of to improve the data visualization looks like the following: 
 
 ![69bf5bad679447c72682dde0f3e924e](https://github.com/YLtryingcode/Yilin-Lyu-portfolio/assets/122923571/50b5ee3f-e203-4676-b2c3-170a6a606fbf)
 
