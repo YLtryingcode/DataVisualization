@@ -28,33 +28,42 @@ After I am done with sketch, I presented it to two people who have never seen th
 
 #### Repondent 1: Male student, late 20s 
 - What does the graph tell you?
+
   This is a graph about revenue for self-driving cars in the future. There will be a big increase in revenue in the next 10-12 years and the increase is not linear. There will a greater portion of Level 4 at 2035 while we do not have any level 4 now yet. At the same time, the revenue share for level 1 will shrink over time. 
 - Who do you think is the target audience for this visualization?
+
   Someone high level at a car company, regulator for public transportation, general public who is intrested in the topic.
 - Anything stand out for you? Anything confusing?
+
   There is not enough color contrast between level 1 & 2. And what each level mean is uncealr so it will be nice if that can be explained. The number is showing a range so how do you decide the height of the bar? 
 - How do you like the overall aesthtics and format?
+
   I like it, it is enjoyable and interesting to look at and the idea of total revenue is increasing each pretty clear. The stack bar chart works well. The change between each bar is dramatic so it's easy to identify the change and the trend line allows a easy guidance to see the change.
 
 
 #### Repondent 2: Male Friend, late 30s.
 - what does the graph tell you?
+
   It is telling me that over all autonomes driving at all level will increase.  High driving automation will be the bigger market share by the end of the decade. I am suprise that level 1 will decrease over time
 - Who do you think is the target audience for this visualization?
-  investors in the automated driving 
+
+  Investors in the automated driving 
 - Anything stand out for you? Anything confusing?
+
   Yes, what is the difference between ADAS and AD. I am also confused by the term of different levels. What does different level mean?
 - What else do you wish you know or being included in the visualization?
-  reference, where the data come frome and the percentage of each each level at each year
+
+  Reference, where the data come frome and the percentage of each each level at each year
 - How do you like the overall aesthetics and format?
+
   I like it. the reader can easily understand the graph with minimal effort. The graph does represent what the title introduce. It is an engaging graph, and yes I am willing to share the information with others.
 
 #### Feedback takeaways & thoughts
 - More explaination about different level is needed for the general audience to understand the graph
-- change the color of each level so it has a greater contrast between each other
+- Change the color of each level so it has a greater contrast between each other
 - For the range problem, an alternative solution is to change to a box plot but it can make the graph very messy. I would rather keep the current stacked bar format and add a footnote that the height of the bar is taking the mid point of the range.
-- add reference 
-- put the number for each level's range back so audience can look into the detailed change for each level.  
+- Add reference 
+- Put the number for each level's range back so audience can look into the detailed change for each level.  
 
 ##  Visualization Redesign 
 https://public.tableau.com/views/Autonomousdriving/Sheet1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
