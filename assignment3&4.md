@@ -1,5 +1,5 @@
 # Data Visualization Critique and Redesign 
-For this assignment, I will select a data visualization in the public that can be better designed, identify the area of improvement, sketch out a potential solution, test out the solution by asking other people's opinions, and offer a different way of approaching the data. 
+For this assignment, I will select a published data visualization that can be better designed, identify the areas of improvement, sketch out a potential solution, test out the solution by asking other people's opinions, and offer a different way of presenting the data. 
 
 
 ## Original Visualization 
@@ -10,10 +10,10 @@ For this assignment, I will select a data visualization in the public that can b
 
 "Exhibit 1", Accessed September 20, 2023. https://www.mckinsey.com/industries/automotive-and-assembly/our-insights/autonomous-drivings-future-convenient-and-connected
 
-This data visualization is from McKinsey's report *'Autonomous driving’s future: Convenient and connected'*  and it is meant to demonstrate the significant increase in revenue by all levels of autonomous driving by 2035 as suggested by the title of the visualization, 'Passenger car advanced driver-assistance systems and the autonomous-driving system could create $300 billion to $400 billion in revenues by 2035'.When first approaching this data visualization, my attention was drawn to the different shades of blue and grey boxes that form a block for each year. My initial interpretation was that those are different levels different level of autonomous driving and their revenue size will grow differently for each level and together they form the entire industry revenue growth. The message itself is not hard to receive, but it took me a while to identify what each individual box meant since tree map is not meant to be compared to each other to demonstrate growth. It was hard to come to a clear conclusion as the title states. In addition, for the general audience who is not familiar with autonomous driving, the meanings of terms levels 1-4 are unclear, especially with how different levels are related to advanced-driver-assistance systems (ADAS) and autonomous driving (AD). It took me an additional search to learn about what each level means. Level 1 & 2 belong to ADAS and level 3 & 4 belong to AD. Lack of this this information makes the graph seem incomplete and not very reader-friendly for general public. 
+This data visualization is from McKinsey's report *'Autonomous driving’s future: Convenient and connected'*  and it is meant to demonstrate the significant increase in revenue by all levels of autonomous driving by 2035 as suggested by the title of the visualization, 'Passenger car advanced driver-assistance systems and the autonomous-driving system could create $300 billion to $400 billion in revenues by 2035'. When first approaching this data visualization, my attention was drawn to the different shades of blue and grey boxes that form a block for each year. My initial interpretation was that those are different levels different level of autonomous driving and their revenue size will grow differently for each level and together they form the entire industry revenue growth. The message itself is not hard to receive, but it took me a while to identify what each individual box meant since tree map is not meant to be compared to each other to demonstrate growth over time. Therefore the visualization makes it hard to come to the conclusion as the title states. In addition, for the general audience who is not familiar with autonomous driving, the meanings of terms levels 1-4 are unclear, especially with how different levels are related to advanced-driver-assistance systems (ADAS) and autonomous driving (AD). It took me an additional search to learn about what each level means. Level 1 & 2 belong to ADAS and level 3 & 4 belong to AD. Lack of this this information makes the graph seem incomplete and not very reader-friendly for general public. 
 
 Overall, this data visualization is very useful and does seem true to its data. It does have a clean look which give it a decent aesthetic score and it will inspire audience to share the main message to others. However, the design of the visualization and the main message it tries to deliver are not well aligned with each other which makes it lacks intuitiveness. The different size of the block over the year make it lacks of perceptibility. 
-
+ 
 ## Sketch 
 
 ### Sktech idea:
@@ -53,7 +53,7 @@ After I am done with sketch, I presented it to two people who have never seen th
   Yes, what is the difference between ADAS and AD. I am also confused by the term of different levels. What does different level mean?
 - What else do you wish you know or being included in the visualization?
 
-  Reference, where the data come frome and the percentage of each each level at each year
+  Reference, where the data come frome and the percentage of each each level at each year.
 - How do you like the overall aesthetics and format?
 
   I like it. the reader can easily understand the graph with minimal effort. The graph does represent what the title introduce. It is an engaging graph, and yes I am willing to share the information with others.
@@ -62,10 +62,12 @@ After I am done with sketch, I presented it to two people who have never seen th
 - More explaination about different level is needed for the general audience to understand the graph
 - Change the color of each level so it has a greater contrast between each other
 - For the range problem, an alternative solution is to change to a box plot but it can make the graph very messy. I would rather keep the current stacked bar format and add a footnote that the height of the bar is taking the mid point of the range.
-- Add reference 
+- Add reference for data source
 - Put the number for each level's range back so audience can look into the detailed change for each level.  
 
 ##  Visualization Redesign 
+So after reflect on the feedbakcs, here is final version of the redesign for the visualization using tableau. 
+
 https://public.tableau.com/views/Autonomousdriving/Sheet1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
 
 <div class='tableauPlaceholder' id='viz1695261512891' style='position: relative'><noscript><a href='#'><img alt='Autonomous Driving System at all levels will create significant revenues in the coming decade Passenger car advanced driver-assistance systems and autonomous-driving systems could create $300 billion to $400 billion in revenue by 2035Data source: McKins ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Au&#47;Autonomousdriving&#47;Sheet1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='Autonomousdriving&#47;Sheet1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Au&#47;Autonomousdriving&#47;Sheet1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>
