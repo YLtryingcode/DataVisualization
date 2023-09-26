@@ -39,7 +39,10 @@ I want to end the presentation on a pleasant note where the audience feel more e
 
 
 ### call for action
-By the presentation's close, I aspire for the audience to be more cognizant of the broader environmental influences of fabrics. Ideally, they'll be able to discern between sustainable and less sustainable materials and apply this knowledge during their subsequent shopping experiences. The overarching goal is to equip consumers with the knowledge to make discerning decisions. 
+By the presentation's close, I aspire for the audience to be more cognizant of the broader environmental influences of fabrics. Ideally, they'll be able to discern between sustainable and less sustainable materials and apply this knowledge during their subsequent shopping experiences. The overarching goal is to equip consumers with the knowledge to make discerning decisions.
+- Rule of thumb
+    - natural fabric is always better than synthetic fabric
+    - If possible, try to extend the duration of a clothin's life time. Buy less item with good quality and wear them for longer 
 
 ## Data Source 
 
