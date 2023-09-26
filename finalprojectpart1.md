@@ -27,10 +27,9 @@ In this section, I'll introduce the various environmental metrics associated wit
 Subsequently, I'll illustrate how fabrics differ in these metrics. The charts will differentiate 'eco-friendly' fabrics from their less sustainable counterparts. These visuals will highlight the strengths and pitfalls of each fabric type, providing a comprehensive understanding of their environmental ramifications. I hope this part of the presentation prompts attendees to introspect about their clothing choices from an environmental viewpoint.
 
 Recreat a visiualization similar to this to emphasize how costly enviromentally  to produce clothing 
-![image](https://github.com/YLtryingcode/Yilin-Lyu-portfolio/assets/122923571/02535e3c-cba9-4bd0-b711-31cfc42f2ade)
-<img width="461" alt="image" src="https://github.com/YLtryingcode/Yilin-Lyu-portfolio/assets/122923571/2b13519e-e280-4fa5-a74c-7cab1beca081">
-<img width="480" alt="image" src="https://github.com/YLtryingcode/Yilin-Lyu-portfolio/assets/122923571/2d9c4f8a-c588-460e-ace2-756f3979faa5">
 
+<img width="461" alt="image" src="https://github.com/YLtryingcode/Yilin-Lyu-portfolio/assets/122923571/2b13519e-e280-4fa5-a74c-7cab1beca081">
+<img width="376" alt="image" src="https://github.com/YLtryingcode/Yilin-Lyu-portfolio/assets/122923571/706ac683-b6c4-49da-9bcd-834f4a831fc8">
 
 
 - Bar chart
