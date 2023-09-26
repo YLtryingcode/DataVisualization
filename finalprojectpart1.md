@@ -8,6 +8,8 @@ How does a piece of clothing impact the enviroment in terms of its carbon emissi
 ### Introduction:  Gap clothing fabric breakdown 
 - To start the story, I want to position my audience as potential customers who go to a clothing store to shop for clothes, and for this scenerio I will pick GAP as I have gap clothing fabric avaliable. At this part, I will demonstrate the percentage of different fabric is being used by the brand as those are also likely to be the fabric that a clothing customer interact with the most. 
 - pie chart
+  ![d2985db4f047082f1176ff2981dd655](https://github.com/YLtryingcode/Yilin-Lyu-portfolio/assets/122923571/3fcff8e2-3141-4dd6-90ba-00d83d0a96a7)
+
 
 
 
@@ -15,6 +17,8 @@ How does a piece of clothing impact the enviroment in terms of its carbon emissi
 For this part, I will first introduce a few of measurements to determine on what level will all the fabric be compared to. Then I will present the following bar chart that demonstrate the difference between a 'good fabric' and a 'bad fabric' from an enviromental perspective.
 
 - Bar chart
+- 
+![f598d7f3dcc61b18f2dbe85f254c278](https://github.com/YLtryingcode/Yilin-Lyu-portfolio/assets/122923571/09f3fb76-400b-4304-ba9c-6cf47d2aa7c9)
 
 ### Customer choice 
 From an ordinary customer's perspective, the price of the clothing is often a key factor before the fabric. Therefore, I would like to address the concern by looking at the price difference of clothes made by different materials and hopefully give my audience hope that they can make enviromentally conscious chocie over clothes will be friendly to their wallet. 
