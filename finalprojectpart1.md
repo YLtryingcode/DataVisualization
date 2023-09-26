@@ -9,7 +9,7 @@ This project will delve into how clothing impacts the environment, focusing on c
 
 
 ### Part 1: Introduction:  Gap clothing fabric breakdown 
-I'll begin the narrative by positioning the audience as potential shoppers at a clothing store, specifically choosing GAP due to the availability of its fabric data and its widespread brand recognition. Here, I'll showcase the distribution of fabrics employed by the brand, representing the materials most customers frequently encounter. By presenting this data, I hope to set a relatable and positive tone, associating the act of shopping with leisure, self-investment, and the joy of acquiring new items. The fabric distribution chart will firmly establish the presentation's theme for the audience.
+I'll begin the narrative by positioning the audience as potential shoppers at a clothing store. I chose GAP as the store to feature due to the availability of its fabric data and its widespread brand recognition. Here, I'll showcase the distribution of fabrics employed by the brand, representing the materials most customers frequently encounter. By presenting this data, I hope to set a relatable and positive tone, associating the act of shopping with leisure, self-investment, and the joy of acquiring new items. The fabric distribution chart will firmly establish the presentation's theme for the audience.
 
 - pie chart
   ![d2985db4f047082f1176ff2981dd655](https://github.com/YLtryingcode/Yilin-Lyu-portfolio/assets/122923571/3fcff8e2-3141-4dd6-90ba-00d83d0a96a7)
