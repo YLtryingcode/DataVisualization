@@ -20,9 +20,9 @@ I'll begin the narrative by positioning the audience as potential shoppers at a 
 ###  Part 2: Fabric environmental imapct 
 In this section, I'll introduce the various environmental metrics associated with clothing fabrics:
 
-Carbon Footprint: Represents the cumulative greenhouse gas emissions generated directly and indirectly by a fabric across its lifespan.
-Energy Consumption: Denotes the energy needed to transform raw materials into the final fabric.
-Water Footprint: Quantifies the total freshwater utilized in fabric production, incorporating both direct and indirect consumption.
+- Carbon Footprint: Represents the cumulative greenhouse gas emissions generated directly and indirectly by a fabric across its lifespan.
+- Energy Consumption: Denotes the energy needed to transform raw materials into the final fabric.
+- Water Footprint: Quantifies the total freshwater utilized in fabric production, incorporating both direct and indirect consumption.
 Subsequently, I'll illustrate how fabrics differ in these metrics. The charts will differentiate 'eco-friendly' fabrics from their less sustainable counterparts. These visuals will highlight the strengths and pitfalls of each fabric type, providing a comprehensive understanding of their environmental ramifications. I hope this part of the presentation prompts attendees to introspect about their clothing choices from an environmental viewpoint.
 
 - Bar chart
