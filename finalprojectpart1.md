@@ -26,8 +26,17 @@ In this section, I'll introduce the various environmental metrics associated wit
 - 
 Subsequently, I'll illustrate how fabrics differ in these metrics. The charts will differentiate 'eco-friendly' fabrics from their less sustainable counterparts. These visuals will highlight the strengths and pitfalls of each fabric type, providing a comprehensive understanding of their environmental ramifications. I hope this part of the presentation prompts attendees to introspect about their clothing choices from an environmental viewpoint.
 
+Recreat a visiualization similar to this to emphasize how costly enviromentally  to produce clothing 
+![image](https://github.com/YLtryingcode/Yilin-Lyu-portfolio/assets/122923571/02535e3c-cba9-4bd0-b711-31cfc42f2ade)
+<img width="461" alt="image" src="https://github.com/YLtryingcode/Yilin-Lyu-portfolio/assets/122923571/2b13519e-e280-4fa5-a74c-7cab1beca081">
+<img width="480" alt="image" src="https://github.com/YLtryingcode/Yilin-Lyu-portfolio/assets/122923571/2d9c4f8a-c588-460e-ace2-756f3979faa5">
+
+
+
 - Bar chart
 ![f598d7f3dcc61b18f2dbe85f254c278](https://github.com/YLtryingcode/Yilin-Lyu-portfolio/assets/122923571/09f3fb76-400b-4304-ba9c-6cf47d2aa7c9)
+
+
 
 ### Part 3: Customer choice 
 How can the insights shared assist customers in making judicious shopping decisions? Beyond the environmental dimensions already explored, I'll introduce the financial facet. Since price often dominates consumer decisions, I'll compare the costs associated with various fabric types, assuring the audience that eco-friendly choices can also be economically viable. Factoring in the durability of clothing, I'll discuss how fabric selection for specific garments can optimize both financial and environmental outcomes.
