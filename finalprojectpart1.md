@@ -40,7 +40,7 @@ I collected this data through web scrapping its website and record each clothing
 
 environmental impact： 
 I collected this data from a few different sources as listed in the sheet. They will be used to demonstrtae how fabric using resources differently 
-
+https://docs.google.com/spreadsheets/d/1hrj4aJCeIc_89OIb3LkXiJFCG1WUux7Qz6dmUTkbD-g/edit?usp=sharing
 
 ## Method and Medium 
 I will be use shorthand to present the story with data visaiuzliation and written paragraphs to commmunicate the story together. 
