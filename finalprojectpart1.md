@@ -1,4 +1,7 @@
 ## Project Summary 
+
+[Go back to the main page](/README.md)
+
 For my final proejct, I  would love to talk about the topic of the enviromental impacts of clothing textiles. Clothing as a commodity that we all consume and need is an important part of our daily life. However, clothes not only has its value as to be worn, 
 but also impact the environment before and after we purchase them. And such impacts are often over looked. 
 
