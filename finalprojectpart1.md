@@ -48,7 +48,8 @@ https://drive.google.com/file/d/1w43VsM6jUG1RR5eX_nDkfjub8FyB2bAh/view?usp=shari
 
 
 environmental impact： 
-This data was collated from various sources, as detailed in the spreadsheet. It will predominantly serve the second part of the presentation, illustrating the differential environmental footprints of various fabrics for part 2. 
+This data was collated from various sources as I could not find a public avaliable data source that has published all the following data. I went on a few sources to collect the data point presented in the spreadsheet. It will predominantly serve the second part of the presentation, illustrating the differential environmental footprints of various fabrics for part 2. I hope to draw concolusion and also deliver the message of how fabric have different impacts on the enviroment. 
+
 https://docs.google.com/spreadsheets/d/1hrj4aJCeIc_89OIb3LkXiJFCG1WUux7Qz6dmUTkbD-g/edit?usp=sharing
 
 ## Method and Medium 
