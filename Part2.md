@@ -20,7 +20,9 @@ Lastly, the resolution will be offer guidance for audience to make better decisi
 My target audience are 
 - Eco-Consious & General Consumers: many consumers are willing to make more enviromental friendly decisions but do not know where to start or what kind of change they can and should make. This story will help them to better understanding the implication of thier clothing purchasing choices.
   For eco-consious consumers, this story will provide more detailed data for their decision making process.
+  
 -Students: Students who are interested in being eco-friendly can benefit from understanding the implication of fabric choices. This may shape thier future decision. 
+
 -Retailers: Retailers decide what products to stock and promote. By understanding the pros and cons of cotton and polyester, they can make informed decisions on what to offer to consumers.
 
 ### Interview Script 
