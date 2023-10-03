@@ -5,8 +5,10 @@ For this part, I would like to demonstrate a draft version of my final project a
 For my wireframe, I decided to build directly in shorthand with visualization from tableau. 
 
 [shorthand storyboard](https://preview.shorthand.com/svyRkkoViol8z3Sp)
-After careful consideration, I decide to narrow down the story and focusing on two most common fabris, Cotton and Polyster, instead of all the fabric that is avaliable in the given store. This way 
-it allows me to go deep into comparison through different angels while keeping the audience engaged. 
+
+
+After careful consideration, I decide to narrow down the story and focusing on two most common fabris, Cotton and Polyster, instead of all the fabric that is avaliable in the given store. 
+This way, it allows me to go deep into comparison through different angels while keeping the audience engaged. 
 The design of the story will follow a basic story telling structure - setup, conflict and resolution 
 For setup, I want to start introducing clothing shopping while proposing the questions about clothing fabric. 
 For conflict, I draw a comparison between cotton and polyster and the pro and cons for each material. 
