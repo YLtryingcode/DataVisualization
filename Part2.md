@@ -51,6 +51,7 @@ Question:
   
 ### Interview Findings 
 ( Male, late 30s, Consumer) 
+
 Goal 1 : clear for pros and cons of buying polyster and cotton. Unclear: Energy usage for production was unlcear. 'all I know was Polyster takes twice as much to produce but I have no idea what the number means. Same with water consume. It will be nice to have a reference point to understand the number. In the first pie chart, other materials draw attention away, if you can group by the rest of the material together, it will be more clear rather than list all of them randomly. 
 
 Goal 2: Yes I do think it is relavant. As a consious consumer, it is nice to know that whichever choice we make there is impact to the enviroment. I am suprise that polyester takes 200 years to decompose. I never really thought about it. 
