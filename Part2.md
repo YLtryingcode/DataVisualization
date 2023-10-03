@@ -27,30 +27,37 @@ My target audience are
 
 ### Interview Script 
 
-Goal : Content Understanding
+Goal 1: Content Understanding
 Question: 
 - From the presentation, were there any points that were unclear or confusing to you?
 - Were there any terms or concepts that you felt needed more explanation?"
 
-Goal: Relevance and Impact
+Goal 2: Relevance and Impact
 Question: 
 - Do you feel the information provided in the presentation is relevant to your daily life or purchasing decisions? Why or why not?
 - Was there a particular section or fact that stood out to you the most?
 
-Goal: Engagement and Structure
+Goal 3: Engagement and Structure
 Question:
 - Did the flow of the presentation keep you engaged? Were there any sections that felt too long or too short?
 - Were there any visuals or graphics that you found particularly helpful or, conversely, distracting?
 - How do you feel about the balance between the environmental impact, durability, and price discussions? Was one more compelling or relevant to you than the others?"
 
-Goal: Suggestions and Improvements
+Goal 4: Suggestions and Improvements
 Question: 
 - Are there any additional topics or points you think should be included to make the presentation more compelling or informative?
 - Do you have any suggestions for how the presentation could be more engaging or impactful for its audience?
 - Do you have any other comments, feedback, or suggestions that we haven't covered?
   
 ### Interview Findings 
+( Male, late 30s, Consumer) 
+Goal 1 : clear for pros and cons of buying polyster and cotton. Unclear: Energy usage for production was unlcear. 'all I know was Polyster takes twice as much to produce but I have no idea what the number means. Same with water consume. It will be nice to have a reference point to understand the number. In the first pie chart, other materials draw attention away, if you can group by the rest of the material together, it will be more clear rather than list all of them randomly. 
 
+Goal 2: Yes I do think it is relavant. As a consious consumer, it is nice to know that whichever choice we make there is impact to the enviroment. I am suprise that polyester takes 200 years to decompose. I never really thought about it. 
 
+Goal 3 : No, it was a nice pace and I like the flow. Yes, the first pie chart was a little confusing and distracting. The price differnce of those two white t-shirt does not make a huge difference for me. And I prefer 100% cotton when it comes to comfort. 
+
+Goal 4: It would be nice to have more slide to explain the energy & water consumption.  Also how has cotton impact biodiversity excatly? 
 
 ## Identified changes for Part III 
+- improve the pie chart 
