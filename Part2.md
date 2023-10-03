@@ -60,7 +60,7 @@ Goal 3 : No, it was a nice pace and I like the flow. Yes, the first pie chart wa
 
 Goal 4: It would be nice to have more slide to explain the energy & water consumption.  Also how has cotton impact biodiversity excatly? 
 
-#####(Female, mid 20s, student) 
+##### (Female, mid 20s, student) 
 Goal 1: I am a little confused about your conclusion. I wonder what is your opinion of those two fabric, like do you suggest one is better than the other for consumer? 
 
 Goal 2: Yes, since I do purchase clothes very often. This provides a new aspect to consider when I buy new clotehs. 
@@ -69,7 +69,7 @@ Goal 3: I like the flow of the story. If you can fit the bubble chart in one sli
 
 Goal 4: I would like more depth into the enviromental impacts and why should general public care about it. 
 
-#####(Male, late 20s, student) 
+##### (Male, late 20s, student) 
 
 Goal 1: The first pie chart that shows different purchasing frequency was confusing since you used the same color for less frequent buyers but different shade of green for the more frequent buyers. 
 Also you do not really need the first pie chart for different fabric since the bubble chart has already done that. 
