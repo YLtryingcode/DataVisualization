@@ -34,7 +34,7 @@ Question:
 
 Goal: Relevance and Impact
 Question: 
--Do you feel the information provided in the presentation is relevant to your daily life or purchasing decisions? Why or why not?
+- Do you feel the information provided in the presentation is relevant to your daily life or purchasing decisions? Why or why not?
 - Was there a particular section or fact that stood out to you the most?
 
 Goal: Engagement and Structure
