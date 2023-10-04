@@ -81,4 +81,11 @@ Goal 3: I wish you can add more slides and information about the enviromental im
 Goal 4: I think  you can add statement at the 'Call for Action' session, such as tell the audience to be more mindful for thier clothing choice and add more website to find enviromentally friendly stores, information about other fabrics 
 
 ## Identified changes for Part III 
-- improve the pie chart 
+### Data Viusalization Change 
+  - change color for purchaing frequency pie chart
+  - delete the first fabric makeup chart
+  - resize the bubble chart to make it fit the slide better
+### Content change 
+  - add more details for the enviromental impact part of each fabric by adding a reference point to help the audience understand
+  - finish the ending call for action section
+### Finish the citation for data sources
