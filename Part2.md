@@ -1,27 +1,27 @@
 # Final Project Part II
-For this part, I would like to demonstrate a draft version of my final project and interviewing people to receive  thier feedbacks on the current sketch in order to improve. 
+For this part, I would like to demonstrate a draft version of my final project and interview people to receive their feedback on the current sketch in order to improve it. 
 
 ## Wireframes/Storyboards 
-For my wireframe, I decided to build directly in shorthand with visualization from tableau. 
+For my wireframe, I decided to build directly in shorthand with visualization from the tableau. 
 
 [shorthand storyboard](https://preview.shorthand.com/svyRkkoViol8z3Sp)
 
 
-After careful consideration, I decide to narrow down the story and focusing on two most common fabris, Cotton and Polyster, instead of all the fabric that is avaliable in the given store. 
-This way, it allows me to go deep into comparison through different angels while keeping the audience engaged. 
-The design of the story will follow a basic story telling structure - setup, conflict and resolution 
-For setup, I want to start introducing clothing shopping while proposing the questions about clothing fabric. 
-For conflict, I draw a comparison between cotton and polyster and the pro and cons for each material. 
-Lastly, the resolution will be offer guidance for audience to make better decision when purchase clothes. 
+After careful consideration, I decided to narrow down the story and focus on the two most common fabrics, Cotton and polyester, instead of all the fabric that is available in the given store. 
+This way, it allows me to go deep into comparison through different angles while keeping the audience engaged. 
+The design of the story will follow a basic storytelling structure - setup, conflict, and resolution 
+For setup, I want to start introducing clothing shopping while proposing questions about clothing fabric. 
+For conflict, I draw a comparison between cotton and polyester and the pros and cons of each material. 
+Lastly, the resolution will offer guidance for the audience to make better decisions when purchasing clothes. 
 
 
 ## User Research 
 ### Target Audience 
-My target audience are 
-- Eco-Consious & General Consumers: many consumers are willing to make more enviromental friendly decisions but do not know where to start or what kind of change they can and should make. This story will help them to better understanding the implication of thier clothing purchasing choices.
-  For eco-consious consumers, this story will provide more detailed data for their decision making process.
+My target audience is 
+- Eco-Consious & General Consumers: many consumers are willing to make more environmentally friendly decisions but do not know where to start or what kind of change they can and should make. This story will help them to better understand the implications of their clothing purchasing choices.
+  For eco-conscious consumers, this story will provide more detailed data for their decision-making process.
   
-- Students: Students who are interested in being eco-friendly can benefit from understanding the implication of fabric choices. This may shape thier future decision. 
+- Students: Students who are interested in being eco-friendly can benefit from understanding the implications of fabric choices. This may shape their future decision. 
 
 - Retailers: Retailers decide what products to stock and promote. By understanding the pros and cons of cotton and polyester, they can make informed decisions on what to offer to consumers.
 
@@ -52,40 +52,40 @@ Question:
 ### Interview Findings 
 #### ( Male, late 30s, General Consumer) 
 
-Goal 1 : clear for pros and cons of buying polyster and cotton. Unclear: Energy usage for production was unlcear. 'all I know was Polyster takes twice as much to produce but I have no idea what the number means. Same with water consume. It will be nice to have a reference point to understand the number. In the first pie chart, other materials draw attention away, if you can group by the rest of the material together, it will be more clear rather than list all of them randomly. 
+Goal 1: clear for pros and cons of buying polyester and cotton. Unclear: Energy usage for production was unclear. 'all I know was Polyester takes twice as much to produce but I have no idea what the number means. Same with water consumption. It will be nice to have a reference point to understand the number. In the first pie chart, other materials draw attention away, if you can group the rest of the material together, it will be clearer than listing all of them randomly. 
 
-Goal 2: Yes I do think it is relavant. As a consious consumer, it is nice to know that whichever choice we make there is impact to the enviroment. I am suprise that polyester takes 200 years to decompose. I never really thought about it. 
+Goal 2: Yes I do think it is relevant. As a conscious consumer, it is nice to know that whichever choice we make there is an impact to the environment. I am surprised that polyester takes 200 years to decompose. I never really thought about it. 
 
-Goal 3 : No, it was a nice pace and I like the flow. Yes, the first pie chart was a little confusing and distracting. The price differnce of those two white t-shirt does not make a huge difference for me. And I prefer 100% cotton when it comes to comfort. 
+Goal 3: No, it was a nice pace and I like the flow. Yes, the first pie chart was a little confusing and distracting. The price difference between those two white T-shirts does not make a huge difference to me. And I prefer 100% cotton when it comes to comfort. 
 
-Goal 4: It would be nice to have more slide to explain the energy & water consumption.  Also how has cotton impact biodiversity excatly? 
+Goal 4: It would be nice to have more slides to explain the energy & water consumption.  Also, how has cotton impacted biodiversity exactly? 
 
 #### (Female, mid 20s, student) 
-Goal 1: I am a little confused about your conclusion. I wonder what is your opinion of those two fabric, like do you suggest one is better than the other for consumer? 
+Goal 1: I am a little confused about your conclusion. I wonder what is your opinion of those two fabrics, like do you suggest one is better than the other for consumers? 
 
-Goal 2: Yes, since I do purchase clothes very often. This provides a new aspect to consider when I buy new clotehs. 
+Goal 2: Yes, since I do purchase clothes very often. This provides a new aspect to consider when I buy new clothes. 
 
-Goal 3: I like the flow of the story. If you can fit the bubble chart in one slide, that will be eaiser to read since now it feels overwhelming. 
+Goal 3: I like the flow of the story. If you can fit the bubble chart in one slide, that will be easier to read since now it feels overwhelming. 
 
-Goal 4: I would like more depth into the enviromental impacts and why should general public care about it. 
+Goal 4: I would like more depth into the environmental impacts and why should general public should care about them. 
 
 #### (Male, late 20s, student) 
 
-Goal 1: The first pie chart that shows different purchasing frequency was confusing since you used the same color for less frequent buyers but different shade of green for the more frequent buyers. 
-Also you do not really need the first pie chart for different fabric since the bubble chart has already done that. 
+Goal 1: The first pie chart that shows different purchasing frequencies was confusing since you used the same color for less frequent buyers but different shades of green for the more frequent buyers. 
+Also, you do not really need the first pie chart for different fabrics since the bubble chart has already done that. 
 
-Goal 2: Yes, I was suprised by how often people purchase clothes since I personally buy clothes less than once a year. 
+Goal 2: Yes, I was surprised by how often people purchase clothes since I personally buy clothes less than once a year. 
 
-Goal 3: I wish you can add more slides and information about the enviromental impacts and what those number mean and what are the consequences or opportunity cost of producing the fabric. 
+Goal 3: I wish you could add more slides and information about the environmental impacts what those numbers mean and what are the consequences or opportunity cost of producing the fabric. 
 
-Goal 4: I think  you can add statement at the 'Call for Action' session, such as tell the audience to be more mindful for thier clothing choice and add more website to find enviromentally friendly stores, information about other fabrics 
+Goal 4: I think  you can add a statement at the 'Call for Action session, such as telling the audience to be more mindful of thier clothing choices and add more websites to find environmentally friendly stores, information about other fabrics 
 
 ## Identified changes for Part III 
 ### Data Viusalization Change 
-  - change color for purchaing frequency pie chart
+  - change the color for purchasing frequency pie chart
   - delete the first fabric makeup chart
   - resize the bubble chart to make it fit the slide better
 ### Content change 
-  - add more details for the enviromental impact part of each fabric by adding a reference point to help the audience understand
+  - add more details for the environmental impact part of each fabric by adding a reference point to help the audience understand
   - finish the ending call for action section
 ### Finish the citation for data sources
