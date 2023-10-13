@@ -11,8 +11,7 @@ I aspire to master the art of crafting data visualizations that are not only aes
 
 <img src="https://yltryingcode.github.io/Yilin-Lyu-portfolio/image/profile_pic.jpg" width="200" />
 
-## Portfolio 
-portfolio page: https://yltryingcode.github.io/Yilin-Lyu-portfolio/
+
 ### Assignment : 
 [09/08 Data visualization: Government Debt](/GovermentDebt.md)
 
