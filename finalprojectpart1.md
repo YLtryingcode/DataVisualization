@@ -30,7 +30,7 @@ Subsequently, I'll illustrate how fabrics differ in these metrics. The charts wi
 ![f598d7f3dcc61b18f2dbe85f254c278](https://github.com/YLtryingcode/Yilin-Lyu-portfolio/assets/122923571/09f3fb76-400b-4304-ba9c-6cf47d2aa7c9)
 
 
-Recreat a visiualization similar to this to emphasize how costly enviromentally  to produce clothing 
+Recreat a visualization similar to this to emphasize how costly it is enviromentally to produce clothing 
 
 <img width="461" alt="image" src="https://github.com/YLtryingcode/Yilin-Lyu-portfolio/assets/122923571/2b13519e-e280-4fa5-a74c-7cab1beca081">
 <img width="376" alt="image" src="https://github.com/YLtryingcode/Yilin-Lyu-portfolio/assets/122923571/706ac683-b6c4-49da-9bcd-834f4a831fc8">
@@ -42,18 +42,18 @@ Recreat a visiualization similar to this to emphasize how costly enviromentally 
 
 ### Part 3: Customer choice 
 How can the insights shared assist customers in making judicious shopping decisions? Beyond the environmental dimensions already explored, I'll introduce the financial facet. Since price often dominates consumer decisions, I'll compare the costs associated with various fabric types, assuring the audience that eco-friendly choices can also be economically viable. Factoring in the durability of clothing, I'll discuss how fabric selection for specific garments can optimize both financial and environmental outcomes.
-I want to end the presentation on a pleasant note where the audience feel more educated and inspired to make better choice next time. 
+I want to end the presentation on a pleasant note where the audience feels more educated and inspired to make better choices next time. 
 
-- Shows clothing fabric vs price scatter plot. By showing the different categories, this graph is meant to show the audience what their choices can be. Combining with the enviromental impact informatio before, this offer the freedome for audience to decide what is their best option enviromentally given their own budget for certain clothes. 
+- Shows clothing fabric vs price scatter plot. By showing the different categories, this graph is meant to show the audience what their choices can be. Combining with the enviromental impact information before, this offers the freedom for audience to decide what is their best option enviromentally given their own budget for certain clothes. 
 ![98bebe6e0b17a4679e53776f09ecfda](https://github.com/YLtryingcode/Yilin-Lyu-portfolio/assets/122923571/0cf70496-58de-411b-8495-c4695adc0ccd)
 
 
 
 ### call for action
-By the presentation's close, I aspire for the audience to be more cognizant of the broader environmental influences of fabrics. Ideally, they'll be able to discern between sustainable and less sustainable materials and apply this knowledge during their subsequent shopping experiences. The overarching goal is to equip consumers with the knowledge to make discerning decisions.
+By the presentation's close, I aspire for the audience to be more cognizant of the broader environmental influences of fabrics. Ideally, they'll be able to discern between sustainable and fewer sustainable materials and apply this knowledge during their subsequent shopping experiences. The overarching goal is to equip consumers with the knowledge to make discerning decisions.
 - Rule of thumb
     - natural fabric is always better than synthetic fabric
-    - If possible, try to extend the duration of a clothin's life time. Buy less item with good quality and wear them for longer 
+    - If possible, try to extend the duration of a clothin's life time. Buy fewer item with good quality and wear them for longer 
 
 ## Data Source 
 
@@ -63,9 +63,9 @@ https://drive.google.com/file/d/1w43VsM6jUG1RR5eX_nDkfjub8FyB2bAh/view?usp=shari
 
 
 environmental impact： 
-This data was collated from various sources as I could not find a public avaliable data source that has published all the following data. I went on a few sources to collect the data point presented in the spreadsheet. It will predominantly serve the second part of the presentation, illustrating the differential environmental footprints of various fabrics for part 2. I hope to draw concolusion and also deliver the message of how fabric have different impacts on the enviroment. 
+This data was collated from various sources as I could not find a publicly avaliable data source that had published all the following data. I went to a few sources to collect the data point presented in the spreadsheet. It will predominantly serve the second part of the presentation, illustrating the differential environmental footprints of various fabrics for part 2. I hope to draw conclusion  and also deliver the message of how fabric have different impacts on the enviroment. 
 
 https://docs.google.com/spreadsheets/d/1hrj4aJCeIc_89OIb3LkXiJFCG1WUux7Qz6dmUTkbD-g/edit?usp=sharing
 
 ## Method and Medium 
-I will be use shorthand to present the story with data visaiuzliation and written paragraphs to commmunicate the story together. 
+I will be using shorthand to present the story with data visualization  and written paragraphs to communicate the story together. 
