@@ -2,7 +2,7 @@
 Hello there, welcome to my page! This is my public portfolio for my Telling Stories with Data class ( aka. Data Visualization ) at CMU. I will use this place to demonstrate my learning process during this course and continue to post more data visualization along my journey as a data analyst. 
 
 ## About Me 
-Hello! I'm Yilin Lyu (pronouns: She/Her). Currently, I'm in my second year at Heinz College, pursuing a degree in Public Policy and Management with a specialization in Data Analytics. I've always been captivated by the power of data science; it's remarkable how it can uncover profound insights from the vast sea of data that surrounds us. My aspiration post-graduation is to harness the potential of data science to drive business growth and innovation.
+Hello! I'm Yilin Lyu (pronouns: She/Her). I'm in my second year at Heinz College, pursuing a degree in Public Policy and Management with a specialization in Data Analytics. I've always been captivated by the power of data science; it's remarkable how it can uncover profound insights from the vast sea of data that surrounds us. My aspiration post-graduation is to harness the potential of data science to drive business growth and innovation.
 
 In my spare time, I enjoy reading, hiking and photography. 
 
