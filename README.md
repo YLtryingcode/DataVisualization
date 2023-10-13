@@ -25,4 +25,4 @@ portfolio page: https://yltryingcode.github.io/Yilin-Lyu-portfolio/
 ### Final Project 
 - [part one: Project Sketch](/finalprojectpart1.md) 
 - [part two: Storyboard and interview for improvements](/Part2.md)
-- part three 
+- [part three: Final project and presentation](/part3.md) 
