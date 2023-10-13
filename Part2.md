@@ -1,10 +1,13 @@
 # Final Project Part II
 
 [Go back to the main page](/README.md)
+
+
 For this part, I would like to demonstrate a draft version of my final project and interview people to receive their feedback on the current sketch in order to improve it. 
 
 ## Wireframes/Storyboards 
 For my wireframe, I decided to build directly in shorthand with visualization from the tableau. 
+
 
 [shorthand storyboard](https://preview.shorthand.com/svyRkkoViol8z3Sp)
 
