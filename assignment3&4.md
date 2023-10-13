@@ -1,3 +1,4 @@
+[Go back to the main page](/README.md)
 # Data Visualization Critique and Redesign 
 For this assignment, I will select a published data visualization that can be better designed, identify the areas of improvement, sketch out a potential solution, test out the solution by asking other people's opinions, and offer a different way of presenting the data. 
 
