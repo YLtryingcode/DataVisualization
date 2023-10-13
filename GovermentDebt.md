@@ -24,7 +24,7 @@ For this visualization, I've honed in on the top three countries with the highes
 ### Upon comparing the three visualizations, each has its unique strengths and limitations:
 
 - Bar Chart: This offers an effective year-by-year comparison of a country's debt. By highlighting specific countries, it becomes easier for viewers to focus on particular nations of interest.
-- Grid of Line Chart: This provides a detailed view of each country's debt trajectory over time. It's ideal for those keen on a specific country or those looking to compare a select few nations.
+- Grid of Line Chart: This provides a detailed view of each country's debt trajectory over time. It's ideal for those keen on a specific country and those seek to compare a few selected nations.
 - Bar Comparison Graph: This narrows down to just the top three debt-laden countries. It's especially valuable for audiences intrigued by these nations and their evolving debt scenarios.
 
 By tailoring the visualization approach, we can cater to diverse audience needs and preferences.
