@@ -1,6 +1,5 @@
+| [home page](/README.md) | [visualizing debt](/GovermentDebt.md) | [visualizing media trust](/MediaTrust.md) |[critique by design](/assignment3&4.md)|[final project part I](/part1.md)|[final project part II](/part2.md)|[final project part III](/part3.md)
 ## Project Summary 
-
-[Go back to the main page](/README.md)
 
 For my final project, I am eager to discuss the environmental implications of clothing textiles. Every day, we wear clothes, switch outfits, and often purchase new garments without deeply considering the processes behind their creation. Clothing, an essential commodity for all of us, serves not only as a medium of self-expression and protection but also leaves an environmental footprint that's frequently overshadowed by fashion trends and consumerism.
 
