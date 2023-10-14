@@ -1,6 +1,4 @@
-
-
-[Go back to the main page](/README.md)
+| [home page](/README.md) | [visualizing debt](/GovermentDebt.md) | [visualizing media trust](/MediaTrust.md) |[critique by design](/assignment3&4.md)|[final project part I](/part1.md)|[final project part II](/part2.md)|[final project part III](/part3.md)
 
 ## OECD Country Government Debt to % of GDP for 2022
 <iframe src="https://data.oecd.org/chart/7b8e" width="760" height="570" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/7b8e" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2022</a></iframe>
