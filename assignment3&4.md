@@ -1,4 +1,4 @@
-[Go back to the main page](/README.md)
+| [home page](/README.md) | [visualizing debt](/GovermentDebt.md) | [visualizing media trust](/MediaTrust.md) |[critique by design](/assignment3&4.md)|[final project part I](/part1.md)|[final project part II](/part2.md)|[final project part III](/part3.md)
 # Data Visualization Critique and Redesign 
 For this assignment, I will select a published data visualization that could be better designed, identify the areas of improvement, sketch out a potential solution, test out the solution by asking opinions of other people, and offer a different way of presenting the data. 
 
