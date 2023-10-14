@@ -1,3 +1,4 @@
+| [home page](/README.md) | [visualizing debt](/GovermentDebt.md) | [visualizing media trust](/MediaTrust.md) |[critique by design](/assignment3&4.md)|[final project part I](/part1.md)|[final project part II](/part2.md)|[final project part III](/part3.md)
 ## Overview 
 Hello there, welcome to my page! This is my public portfolio for my Telling Stories with Data class ( aka. Data Visualization ) at CMU. I will use this place to demonstrate my learning process during this course and continue to post more data visualization along my journey as a data analyst. 
 
