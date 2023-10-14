@@ -1,7 +1,5 @@
+| [home page](/README.md) | [visualizing debt](/GovermentDebt.md) | [visualizing media trust](/MediaTrust.md) |[critique by design](/assignment3&4.md)|[final project part I](/part1.md)|[final project part II](/part2.md)|[final project part III](/part3.md)
 # Final Project Part II
-
-[Go back to the main page](/README.md)
-
 
 For this part, I would like to demonstrate a draft version of my final project and interview people to receive their feedback on the current sketch in order to improve it. 
 
