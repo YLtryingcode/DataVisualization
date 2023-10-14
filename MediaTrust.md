@@ -1,4 +1,4 @@
-[Go back to the main page](/README.md)
+| [home page](/README.md) | [visualizing debt](/GovermentDebt.md) | [visualizing media trust](/MediaTrust.md) |[critique by design](/assignment3&4.md)|[final project part I](/part1.md)|[final project part II](/part2.md)|[final project part III](/part3.md)
 
 ## This visualization demonstrates American's trust in different media sources 
 
