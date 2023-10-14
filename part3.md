@@ -3,6 +3,9 @@
 
 ## The final data story 
 
+Shorthan Link : 
+https://carnegiemellon.shorthandstories.com/which-shirt-should-i-buy/index.html
+
 ## Change made since Part II 
 - stage setup. For the final design, I decided to put the two graph ("People has been increasing their clothing purchase every year excpet during the COVID year" & "How often do Americans Buy Clothes?") together.I want to use the visuals, along with detailed text descriptions to set the stage for the narrative, highlighting the increasing frequency and volume of clothing purchases.
 - I removed the initial pie chart detailing all the fabric distribution, left only with the one focusing on cotton and polyester. As my emphasis will be primarily on these two materials, it's more reasonable to center the audience's attention on them.
